@@ -1,0 +1,25 @@
+{
+  "name": "futebot",
+  "version": "1.0.0",
+  "description": "Bot de zueira de futebol para WhatsApp",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "keywords": ["whatsapp", "futebol", "bot", "baileys"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc13",
+    "better-sqlite3": "^12.10.0",
+    "dotenv": "^17.4.2",
+    "openai": "^6.42.0",
+    "pino": "^10.3.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

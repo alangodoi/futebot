@@ -1,0 +1,39 @@
+{
+  "stickers": [
+    {
+      "id": "e1ab98",
+      "file": "e1ab98.webp",
+      "animated": true,
+      "tags": ["resposta matadora", "destruiu", "atirou", "finalizou", "mitou", "zoeira pesada"],
+      "when": "Resposta matadora, xingamento pesado, humilhação do rival ou quando você destruiu na zoeira"
+    },
+    {
+      "id": "c0ab17",
+      "file": "c0ab17.webp",
+      "animated": true,
+      "tags": ["presença", "confiança", "foda", "o cara", "o bom", "chegou", "dominou", "mito"],
+      "when": "Menção direta, chegou no grupo, presença/confiança, entrou pistola ou dominou a conversa"
+    },
+    {
+      "id": "ca378",
+      "file": "ca378.webp",
+      "animated": true,
+      "tags": ["mama aqui", "chupa", "pau", "pênis", "rola", "vai mamar", "provocação sexual", "humilhação pesada"],
+      "when": "Humilhação sexual pesada tipo 'mama aqui', 'chupa', 'vai mamar' — quando quiser mandar alguém mamar"
+    },
+    {
+      "id": "3167c",
+      "file": "3167c.webp",
+      "animated": true,
+      "tags": ["torcedor de ocasião", "torcedor de momento", "bandeira", "sumiu", "só aparece quando ganha", "formiga", "fluminense"],
+      "when": "Zoar torcedor de ocasião/bandeira — some quando o time perde, aparece quando ganha. Formiga é o principal do grupo"
+    },
+    {
+      "id": "a9e21",
+      "file": "a9e21.webp",
+      "animated": false,
+      "tags": ["neymar", "lesão", "lesionou", "machucou", "contusão", "desfalque", "fora do jogo", "maldição"],
+      "when": "Quando alguém falar que jogador se lesionou, machucou, tá fora, desfalque — sticker do Neymar (estático)"
+    }
+  ]
+}
