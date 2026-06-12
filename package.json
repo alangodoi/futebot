@@ -6,7 +6,11 @@
   "main": "src/index.js",
   "scripts": {
     "dev": "node --watch src/index.js",
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "deploy": "bash scripts/deploy.sh",
+    "setup:server": "bash scripts/setup-server.sh",
+    "sync:session": "bash scripts/sync-session.sh",
+    "logs": "bash scripts/logs.sh"
   },
   "engines": {
     "node": ">=20.0.0"
