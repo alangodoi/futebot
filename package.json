@@ -10,6 +10,8 @@
     "deploy": "bash scripts/deploy.sh",
     "setup:server": "bash scripts/setup-server.sh",
     "sync:session": "bash scripts/sync-session.sh",
+    "sync:up": "bash scripts/sync-session.sh",
+    "qr": "bash scripts/qr.sh",
     "logs": "bash scripts/logs.sh"
   },
   "engines": {
